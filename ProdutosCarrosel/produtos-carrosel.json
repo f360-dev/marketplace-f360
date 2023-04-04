@@ -1,14 +1,14 @@
 [
 	{
-		"Descricao": "Descricao Principal: Emissor de Notas Teste de Descricao",
-		"ImagemPrincipal": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_.png",
+		"Descricao": "Descricao Principal Produto 1: Emissor de Notas Teste de Descricao",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/8dfade5b65f99277f77c176934bf4e119f43127c/Imagens/imagem-1.jpg",
 	},
 	{
-		"Descricao": "Descricao Principal: Emissor de Notas Teste de Descricao",
-		"ImagemPrincipal": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_.png",
+		"Descricao": "Descricao Principal  Produto 2: Emissor de Notas Teste de Descricao",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/8dfade5b65f99277f77c176934bf4e119f43127c/Imagens/imagem-2.jpg",
 	},,
 	{
-		"Descricao": "Descricao Principal: Emissor de Notas Teste de Descricao",
-		"ImagemPrincipal": "https://raw.githubusercontent.com/f360-dev/novidades-f360/main/images/Feed%20de%20produtos_.png",
+		"Descricao": "Descricao Principal  Produto 3: Emissor de Notas Teste de Descricao",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/8dfade5b65f99277f77c176934bf4e119f43127c/Imagens/imagem-3.jpg",
 	},,
 ]
