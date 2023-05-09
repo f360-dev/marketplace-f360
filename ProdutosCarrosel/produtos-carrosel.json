@@ -1,22 +1,22 @@
 [
 	{
-		"Produto" : "Emissor de Notas",
-		"Descricao": "Descricao Principal Produto 1: Emissor de Notas Teste de Descricao",
+		"Produto" : "Vídeo de lançamento",
+		"Descricao": "Descricao Principal Produto 1: Vídeo de lançamento",
 		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-1.jpg?raw=true",
 	},
 	{
-		"Produto" : "Contábil",
-		"Descricao": "Descricao Principal  Produto 2: Emissor de Notas Teste de Descricao",
+		"Produto" : "Vem aí novidade",
+		"Descricao": "Descricao Principal  Produto 2: Vem aí novidade",
 		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-2.jpg?raw=true",
 	},
 	{
-		"Produto" : "Educa",
-		"Descricao": "Descricao Principal  Produto 3: Emissor de Notas Teste de Descricao",
+		"Produto" : "Open Finance",
+		"Descricao": "Descricao Principal  Produto 3: Open Finance",
 		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-3.jpg?raw=true",
 	},
 	{
-		"Produto" : "Automação Bancária",
-		"Descricao": "Descricao Principal  Produto 4: Emissor de Notas Teste de Descricao",
+		"Produto" : "Programa de Indicação",
+		"Descricao": "Descricao Principal  Produto 4: Programa de Indicação",
 		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-2.jpg?raw=true",
 	},
 ]
