@@ -2,21 +2,21 @@
 	{
 		"Produto" : "Vídeo de lançamento",
 		"Descricao": "Descricao Principal Produto 1: Vídeo de lançamento",
-		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-1.jpg?raw=true",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-1.png?raw=true",
 	},
 	{
 		"Produto" : "Vem aí novidade",
 		"Descricao": "Descricao Principal  Produto 2: Vem aí novidade",
-		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-2.jpg?raw=true",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-2.png?raw=true",
 	},
 	{
 		"Produto" : "Open Finance",
 		"Descricao": "Descricao Principal  Produto 3: Open Finance",
-		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-3.jpg?raw=true",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-3.png?raw=true",
 	},
 	{
 		"Produto" : "Programa de Indicação",
 		"Descricao": "Descricao Principal  Produto 4: Programa de Indicação",
-		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-2.jpg?raw=true",
+		"Imagem": "https://github.com/f360-dev/marketplace-f360/blob/main/Imagens/imagem-4.png?raw=true",
 	},
 ]
