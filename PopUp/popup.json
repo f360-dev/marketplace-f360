@@ -14,6 +14,23 @@
       "preventCli": [],
       "direcionarCampanha": [],
       "closeColor": "#fff"
+    },
+    {
+      "nome": "Divulgacao Guia prático",
+      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-guia-plano-orcamentario.jpg",
+      "link": "https://bit.ly/4hEQXR9",
+      "localStorageId": "guiaPratico13112024",
+      "categoria": "Pop-up - Curso Plano Orcamentario",
+      "inicio": "2024/11/13",
+      "fim": "2024/11/15",
+      "action": "Saiba Mais",
+      "preventClient": [
+        "CDS",
+        "CLO"
+      ],
+      "preventCli": [],
+      "direcionarCampanha": [],
+      "closeColor": "#fff"
     }
   ]
   
