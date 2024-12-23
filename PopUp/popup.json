@@ -1,32 +1,15 @@
 [
     {
-      "nome": "Divulgacao Curso GE",
-      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-campanha-curso-ge.png",
-      "link": "https://youtu.be/MLKM2RHJLw8",
-      "localStorageId": "divulgacaoCursoGe21102024",
-      "categoria": "Pop-up - Divulgacao Divulgacao Curso GE",
-      "inicio": "2024/10/20",
-      "fim": "2024/10/25",
+      "nome": "Natal & Ano Novo",
+      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-natal-anoNovo-2024.jpg",
+      "link": "https://www.instagram.com/share/_mH-xJfi7",
+      "localStorageId": "natalAnoNovo20241223",
+      "categoria": "Pop-up - Natal & Ano Novo",
+      "inicio": "2024/12/24",
+      "fim": "2024/12/28",
       "action": "Saiba Mais",
       "preventClient": [
         "CDS"
-      ],
-      "preventCli": [],
-      "direcionarCampanha": [],
-      "closeColor": "#fff"
-    },
-    {
-      "nome": "Divulgacao Guia prático",
-      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-guia-plano-orcamentario.jpg",
-      "link": "https://bit.ly/4hEQXR9",
-      "localStorageId": "guiaPratico13112024",
-      "categoria": "Pop-up - Curso Plano Orcamentario",
-      "inicio": "2024/11/13",
-      "fim": "2024/11/15",
-      "action": "Saiba Mais",
-      "preventClient": [
-        "CDS",
-        "CLO"
       ],
       "preventCli": [],
       "direcionarCampanha": [],
