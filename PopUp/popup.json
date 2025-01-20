@@ -1,12 +1,12 @@
 [
     {
-      "nome": "Natal & Ano Novo",
-      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-natal-anoNovo-2024.jpg",
-      "link": "https://www.instagram.com/share/_mH-xJfi7",
-      "localStorageId": "natalAnoNovo20241223",
-      "categoria": "Pop-up - Natal & Ano Novo",
-      "inicio": "2024/12/24",
-      "fim": "2024/12/28",
+      "nome": "Novos Indicadores",
+      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/Pop_up_Novos_indicadores.png",
+      "link": "https://go.f360.com.br/popup-20-01-25",
+      "localStorageId": "novosIndicadores19012025",
+      "categoria": "Pop-up - Novos Indicadores",
+      "inicio": "2025/01/20",
+      "fim": "2025/01/23",
       "action": "Saiba Mais",
       "preventClient": [
         "CDS"
