@@ -1,19 +1,19 @@
 [
     {
-      "nome": "Novos Indicadores",
-      "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/Pop_up_Novos_indicadores.png",
-      "link": "https://go.f360.com.br/popup-20-01-25",
-      "localStorageId": "novosIndicadores19012025",
-      "categoria": "Pop-up - Novos Indicadores",
-      "inicio": "2025/01/20",
-      "fim": "2025/01/23",
-      "action": "Saiba Mais",
-      "preventClient": [
-        "CDS"
-      ],
-      "preventCli": [],
-      "direcionarCampanha": [],
-      "closeColor": "#fff"
-    }
+        "nome": "Dia das maes",
+        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Popup-dia-das-maes-plataforma.jpg",
+        "link": "https://f360.com.br/indique-f360/",
+        "localStorageId": "diasDasMaes20250428",
+        "categoria": "Pop-up - Dia das maes",
+        "inicio": "2025/04/29",
+        "fim": "2025/05/02",
+        "action": "Saiba Mais",
+        "preventClient": [
+          "CDS"
+        ],
+        "preventCli": [],
+        "direcionarCampanha": [],
+        "closeColor": "#fff"
+      }
   ]
   
