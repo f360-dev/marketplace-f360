@@ -1,19 +1,19 @@
 [
     {
-        "nome": "Dia das maes",
-        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Popup-dia-das-maes-plataforma.jpg",
-        "link": "https://go.f360.com.br/4lKfMgz",
-        "localStorageId": "diasDasMaes20250430",
-        "categoria": "Pop-up - Dia das maes",
-        "inicio": "2025/04/29",
-        "fim": "2025/05/02",
+        "nome": "Campanha BWA",
+        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-bwa-2.jpg",
+        "link": "https://f360.com.br/diagnostico-gratuito-bwa",
+        "localStorageId": "bwa20251105",
+        "categoria": "Pop-up - Campanha BWA Maio",
+        "inicio": "2025/05/11",
+        "fim": "2025/05/16",
         "action": "Saiba Mais",
         "preventClient": [
           "CDS"
         ],
         "preventCli": [],
         "direcionarCampanha": [],
-        "closeColor": "#fff"
+        "closeColor": "#000000"
       }
   ]
   
