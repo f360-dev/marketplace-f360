@@ -1,12 +1,12 @@
 [
     {
-        "nome": "Campanha BWA",
-        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-bwa-2.jpg",
-        "link": "https://f360.com.br/diagnostico-gratuito-bwa",
-        "localStorageId": "bwa20251105",
-        "categoria": "Pop-up - Campanha BWA Maio",
-        "inicio": "2025/05/11",
-        "fim": "2025/05/13",
+        "nome": "Campanha ABF",
+        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-popup-abf.jpg",
+        "link": "https://www.instagram.com/p/DLPjqW7tz2v/?igsh=MXVqOWs1OHMxZTduOQ%3D%3D&img_index=2",
+        "localStorageId": "abf20250623",
+        "categoria": "Pop-up - Campanha ABF",
+        "inicio": "2025/06/24",
+        "fim": "2025/06/27",
         "action": "Saiba Mais",
         "preventClient": [
           "CDS"
