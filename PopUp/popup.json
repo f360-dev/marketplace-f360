@@ -1,19 +1,20 @@
 [
     {
-        "nome": "Campanha Reposicionamento",
-        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/Imagens/F360-Popup-Reposicionamento.png",
-        "link": "https://f360.com.br/reposicionamento",
-        "localStorageId": "posicionamento20250716",
-        "categoria": "Pop-up - Campanha Reposicionamento",
-        "inicio": "2025/07/17",
-        "fim": "2025/07/22",
-        "action": "Assista agora",
+        "nome": "Campanha Mes do cliente",
+        "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-popup-mes-do-cliente.jpg",
+        "link": "https://f360.com.br/mes-do-cliente-f360",
+        "localStorageId": "mesdocliente220920251513",
+        "categoria": "Pop-up - Campanha mes do cliente",
+        "inicio": "2025/09/23",
+        "fim": "2025/09/30",
+        "action": "Adicionar",
         "preventClient": [
           "CDS"
         ],
         "preventCli": [],
         "direcionarCampanha": [],
-        "closeColor": "#000000"
+        "closeColor": "#fff"
       }
   ]
   
+
