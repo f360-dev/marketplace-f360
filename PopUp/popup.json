@@ -6,7 +6,7 @@
       "localStorageId": "antecipa202512091228",
       "categoria": "Pop-up - Campanha Antecipação 2025",
       "inicio": "2025/12/08",
-      "fim": "2025/12/31",
+      "fim": "2025/12/10",
       "action": "",
       "preventClient": [
         "CDS",
@@ -17,4 +17,5 @@
       "closeColor": "#fff"
     }
 ]
+
 
