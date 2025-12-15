@@ -2,7 +2,7 @@
   {
       "nome": "Campanha Antecipação 2025",
       "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-campanha-antecipa-2025.jpg",
-      "link": "#",
+      "link": "https://www.youtube.com/watch?v=Us8oUAY54F8",
       "localStorageId": "antecipa202512091228",
       "categoria": "Pop-up - Campanha Antecipação 2025",
       "inicio": "2025/12/08",
@@ -10,7 +10,6 @@
       "action": "",
       "preventClient": [
         "CDS",
-        "Antecipa"
       ],
       "preventCli": [],
       "direcionarCampanha": [],
