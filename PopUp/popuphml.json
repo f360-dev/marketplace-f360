@@ -9,7 +9,7 @@
       "fim": "2025/12/31",
       "action": "",
       "preventClient": [
-        "CDS",
+        "CDS"
       ],
       "preventCli": [],
       "direcionarCampanha": [],
