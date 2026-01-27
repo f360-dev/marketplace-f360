@@ -8,7 +8,7 @@
       "inicio": "2026/01/22",
       "fim": "2026/02/04",
       "action": "",
-      "preventClient": [],
+      "preventClient": ["FRA"],
       "preventCli": [],
       "direcionarCampanha": [],
       "closeColor": "#fff",
@@ -16,3 +16,4 @@
       "desabilitarAposClick": true
     }
 ]
+
