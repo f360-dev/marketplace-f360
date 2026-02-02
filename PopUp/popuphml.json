@@ -2,7 +2,7 @@
   {
     "nome": "Campanha Isencao Setup",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-campanha-setup-gratis-2026.jpg",
-    "link": "https://api.whatsapp.com/send?phone=5511989334591 ",
+    "link": "https://api.whatsapp.com/send?phone=5511989334591",
     "localStorageId": "isencaoSetup20260202",
     "categoria": "Pop-up - Campanha Isencao Setup",
     "inicio": "2026/02/01",
