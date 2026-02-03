@@ -114,7 +114,10 @@
       "CLI-5979",
       "CLI-3299",
       "CLI-3028",
-      "CLI-13258"
+      "CLI-13258",
+      "TES-1032",
+      "TES-13347",
+      "TES-13963"
     ],
     "closeColor": "#fff",
     "maximoExibicoes": 5,
