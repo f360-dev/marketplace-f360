@@ -119,21 +119,6 @@
     "closeColor": "#fff",
     "maximoExibicoes": 5,
     "desabilitarAposClick": true
-  },
-  {
-    "nome": "Live Antecipa 2026",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-campanha-live-antecipa-2026.jpg",
-    "link": "https://go.f360.com.br/4jSrPaU",
-    "localStorageId": "liveAntecipa20260123",
-    "categoria": "Pop-up - Campanha Live Antecipa 2026",
-    "inicio": "2026/01/22",
-    "fim": "2026/02/04",
-    "action": "",
-    "preventClient": [],
-    "preventCli": [],
-    "direcionarCampanha": [],
-    "closeColor": "#fff",
-    "maximoExibicoes": 5,
-    "desabilitarAposClick": true
   }
 ]
+
