@@ -122,7 +122,24 @@
     "closeColor": "#fff",
     "maximoExibicoes": 5,
     "desabilitarAposClick": true
+  },
+  {
+    "nome": "Campanha Consumidor",
+    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Dia-Consumidor_2026.jpg",
+    "link": "https://f360.com.br/campanha-consumidor-2026/",
+    "localStorageId": "campanhaConsumidor20260302",
+    "categoria": "Pop-up - Campanha Consumidor",
+    "inicio": "2026/03/02",
+    "fim": "2026/03/13",
+    "action": "",
+    "preventClient": [],
+    "preventCli": [],
+    "direcionarCampanha": [],
+    "closeColor": "#fff",
+    "maximoExibicoes": 1,
+    "desabilitarAposClick": true
   }
 ]
+
 
 
