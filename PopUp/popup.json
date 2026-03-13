@@ -2,8 +2,8 @@
   {
     "nome": "Campanha Consumidor",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Dia-Consumidor_2026.jpg",
-    "link": "https://f360.com.br/campanha-consumidor-2026/",
-    "localStorageId": "campanhaConsumidor20260302",
+    "link": "https://www.youtube.com/watch?v=kDaQBXuOn2Y",
+    "localStorageId": "campanhaConsumidor20260311",
     "categoria": "Pop-up - Campanha Consumidor",
     "inicio": "2026/03/02",
     "fim": "2026/03/13",
@@ -14,24 +14,9 @@
     "closeColor": "#fff",
     "maximoExibicoes": 1,
     "desabilitarAposClick": true
-  },
-  {
-    "nome": "Live Reforma Tributária",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-campanha-live-reforma-tributaria2026.jpg",
-    "link": "https://conteudo.f360.com.br/f360-ao-vivo-os-impactos-da-reforma-tributaria-do-caixa-ao-contrato",
-    "localStorageId": "liveReformaTributaria20260304",
-    "categoria": "Pop-up - Live Reforma Tributária",
-    "inicio": "2026/03/04",
-    "fim": "2026/03/09",
-    "action": "",
-    "preventClient": [],
-    "preventCli": [],
-    "direcionarCampanha": [],
-    "closeColor": "#fff",
-    "maximoExibicoes": 1,
-    "desabilitarAposClick": true
   }
 ]
+
 
 
 
