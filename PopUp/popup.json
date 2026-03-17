@@ -2,9 +2,9 @@
   {
     "nome": "Aviso Stone",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Aviso-Stone-2026.jpg",
-    "link": "https://f360.zendesk.com/hc/pt-br/articles/38988375064855-Como-resolver-o-erro-de-consentimento-Stone ",
+    "link": "https://f360.zendesk.com/hc/pt-br/articles/38988375064855-Como-resolver-o-erro-de-consentimento-Stone",
     "localStorageId": "avisoStone20260317",
-    "categoria": "Pop-up - Avisa Stone",
+    "categoria": "Pop-up - Aviso Stone",
     "inicio": "2026/03/16",
     "fim": "2026/03/27",
     "action": "",
