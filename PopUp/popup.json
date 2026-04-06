@@ -1,21 +1,5 @@
 [
   {
-    "nome": "Live F360 + Goakira",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360_Live-Goakira.png",
-    "link": "https://conteudo.f360.com.br/f360-ao-vivo-webinar-goakira?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnxKfmKqIpqxFnhr_JL18CKI_TK9Z0MQE0Aoll-uvVGs5NtXYZqvYSzjlP0xg_aem_GQXulJcSYvdM4Ii9DfWtbg",
-    "localStorageId": "liveGoakira20260409",
-    "categoria": "Pop-up - Live F360 + Goakira",
-    "inicio": "2026/04/06",
-    "fim": "2026/04/09",
-    "action": "",
-    "preventClient": [],
-    "preventCli": [],
-    "direcionarCampanha": [],
-    "closeColor": "#fff",
-    "maximoExibicoes": 1,
-    "desabilitarAposClick": true
-  },
-  {
     "nome": "Aviso Stone",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Aviso-Stone-2026.jpg",
     "link": "https://f360.zendesk.com/hc/pt-br/articles/38988375064855-Como-resolver-o-erro-de-consentimento-Stone",
@@ -53,8 +37,3 @@
     "desabilitarAposClick": true
   }
 ]
-
-
-
-
-
