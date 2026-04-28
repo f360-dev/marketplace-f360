@@ -13,6 +13,7 @@
     "direcionarCampanha": [],
     "closeColor": "#fff",
     "maximoExibicoes": 1,
-    "desabilitarAposClick": true
+    "desabilitarAposClick": true,
+    "ocultarParaAdmin": true
   }
 ]
