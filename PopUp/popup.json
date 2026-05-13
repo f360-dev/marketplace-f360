@@ -1,18 +1,21 @@
 [
   {
-    "nome": "F360 + BWA",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-Banner-BWA.jpg",
-    "link": "https://scorertf360.bwa.global/?origem=banner",
-    "localStorageId": "bannerBWA20260427",
-    "categoria": "Pop-up - F360 + BWA",
-    "inicio": "2026/04/26",
-    "fim": "2026/05/08",
+    "nome": "Ativação Antecipa",
+    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-banner-antecipa-ativacao.jpg",
+    "link": "/#/antecipa/inicio",
+    "localStorageId": "antecipaAtivacao20260513",
+    "categoria": "Pop-up - Antecipa Ativação",
+    "inicio": "2026/05/12",
+    "fim": "2026/05/30",
     "action": "",
     "preventClient": [],
     "preventCli": [],
     "direcionarCampanha": [],
     "closeColor": "#fff",
     "maximoExibicoes": 1,
-    "desabilitarAposClick": true
+    "desabilitarAposClick": true,
+    "ocultarParaAdmin": false,
+    "mostrarSomenteParaAdmin": true,
+    "validarAntecipa": true
   }
 ]
