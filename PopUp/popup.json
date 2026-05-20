@@ -1,10 +1,10 @@
 [
   {
     "nome": "Ativação Antecipa",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-banner-antecipa-ativacao.jpg",
+    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/f360-banner-antecipa-simulacao.jpg",
     "link": "/#/antecipa/inicio",
-    "localStorageId": "antecipaAtivacao20260513",
-    "categoria": "Pop-up - Antecipa Ativação",
+    "localStorageId": "antecipaSimulacao20260519",
+    "categoria": "Pop-up - Antecipa Simulação",
     "inicio": "2026/05/12",
     "fim": "2026/05/30",
     "action": "",
