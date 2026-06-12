@@ -113,24 +113,5 @@
     "closeColor": "#fff",
     "maximoExibicoes": 3,
     "desabilitarAposClick": true
-  },
-  {
-    "nome": "Ativação Antecipa",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/f360-banner-antecipa-simulacao.jpg",
-    "link": "/#/antecipa/inicio",
-    "localStorageId": "antecipaSimulacao20260519",
-    "categoria": "Pop-up - Antecipa Simulação",
-    "inicio": "2026/05/12",
-    "fim": "2026/05/30",
-    "action": "",
-    "preventClient": [],
-    "preventCli": [],
-    "direcionarCampanha": [],
-    "closeColor": "#fff",
-    "maximoExibicoes": 1,
-    "desabilitarAposClick": true,
-    "ocultarParaAdmin": false,
-    "mostrarSomenteParaAdmin": true,
-    "validarAntecipa": true
   }
 ]
