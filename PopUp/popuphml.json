@@ -11,6 +11,7 @@
     "preventClient": [],
     "preventCli": [],
     "direcionarCampanha": [
+      "CLI-13815",
       "CLI-6396",
       "CLI-3401",
       "CLI-14545",
