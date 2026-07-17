@@ -1197,7 +1197,8 @@
     ],
     "closeColor": "#fff",
     "maximoExibicoes": 3,
-    "desabilitarAposClick": true
+    "desabilitarAposClick": true,
+    "enableWhiteLabelCielo": true
   },
   {
     "nome": "Credenciamento SafraPay",
