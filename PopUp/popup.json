@@ -2,22 +2,18 @@
   {
     "nome": "Desativação do Cielo Conciliador",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/f360-desativacao-cielo-conciliador.png",
-    "link": "https://calendly.com/sidnei-santana/migracao-conciliador-f360",
-    "localStorageId": "cieloConciliador20260825",
+    "link": "https://f360.com.br/migracao-cielo-financas/",
+    "localStorageId": "cieloConciliador20260824",
     "categoria": "Pop-up - Desativação Cielo Conciliador",
     "inicio": "2026/08/22",
-    "fim": "2026/10/31",
+    "fim": "2026/08/22",
     "action": "",
     "preventClient": [],
     "bloquearClientesPorCodigo": [],
     "direcionarCampanha": [],
-    "direcionarClientesPorCodigo": ["CLO"],
+    "exibirSomenteClientesCielo": true,
     "closeColor": "#fff",
-    "maximoExibicoes": 2,
-    "desabilitarAposClick": true,
-    "ocultarParaAdmin": false,
-    "mostrarSomenteParaAdmin": false,
-    "validarAntecipa": false,
-    "enableWhiteLabelCielo": true
+    "maximoExibicoes": 0,
+    "desabilitarAposClick": true
   }
 ]
