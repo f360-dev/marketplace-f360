@@ -1,18 +1,19 @@
 [
   {
-    "nome": "Conciliação de títulos abertos",
-    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-campanha-agente-dre.jpg",
-    "link": "https://f360.zendesk.com/hc/pt-br/articles/41916055506327-Concilia%C3%A7%C3%A3o-e-liquida%C3%A7%C3%A3o-por-sugest%C3%A3o-das-despesas-em-aberto",
-    "localStorageId": "agenteDre20260810",
-    "categoria": "Pop-up - Conciliação de títulos abertos",
-    "inicio": "2026/08/11",
-    "fim": "2026/08/16",
+    "nome": "Desativação do Cielo Conciliador",
+    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/f360-desativacao-cielo-conciliador.png",
+    "link": "https://f360.com.br/migracao-cielo-financas/",
+    "localStorageId": "cieloConciliador20260824",
+    "categoria": "Pop-up - Desativação Cielo Conciliador",
+    "inicio": "2026/08/24",
+    "fim": "2026/10/31",
     "action": "",
     "preventClient": [],
-    "preventCli": [],
+    "bloquearClientesPorCodigo": [],
     "direcionarCampanha": [],
+    "exibirSomenteClientesCielo": true,
     "closeColor": "#fff",
-    "maximoExibicoes": 1,
+    "maximoExibicoes": 3,
     "desabilitarAposClick": true
   }
 ]
