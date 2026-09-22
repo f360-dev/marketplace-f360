@@ -2,7 +2,7 @@
   {
     "nome": "Arquivos VR",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-popup-arquivos-vr.jpg",
-    "link": "",
+    "link": "https://f360.zendesk.com/hc/pt-br/articles/43214355189911-Integra%C3%A7%C3%A3o-VR-como-autorizar-o-envio-dos-arquivos-financeiros-para-a-F360",
     "localStorageId": "arquivosVr20260923",
     "categoria": "Pop-up - Arquivos VR",
     "inicio": "2026/09/23",
