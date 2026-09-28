@@ -1,5 +1,26 @@
 [
   {
+    "nome": "Novo menu",
+    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-banner-novo-menu.png",
+    "link": "#",
+    "localStorageId": "novoMenu20260925",
+    "categoria": "Pop-up - Novo Menu",
+    "inicio": "2026/09/28",
+    "fim": "2026/09/30",
+    "action": "",
+    "preventClient": [],
+    "bloquearClientesPorCodigo": [],
+    "direcionarCampanha": [],
+    "direcionarClientesPorCodigo": [],
+    "closeColor": "#fff",
+    "maximoExibicoes": 1,
+    "desabilitarAposClick": true,
+    "ocultarParaAdmin": false,
+    "mostrarSomenteParaAdmin": false,
+    "validarAntecipa": false,
+    "enableWhiteLabelCielo": true
+  },
+  {
     "nome": "Arquivos VR",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-popup-arquivos-vr.jpg",
     "link": "https://f360.zendesk.com/hc/pt-br/articles/43214355189911-Integra%C3%A7%C3%A3o-VR-como-autorizar-o-envio-dos-arquivos-financeiros-para-a-F360",
