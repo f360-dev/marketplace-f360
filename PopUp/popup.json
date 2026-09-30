@@ -1,5 +1,26 @@
 [
   {
+    "nome": "Novo menu no ar",
+    "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-banner-novo-menu-no-ar.png",
+    "link": "https://f360.zendesk.com/hc/pt-br/sections/43705796620055-Atualiza%C3%A7%C3%B5es-do-Produto-F360-Finan%C3%A7as?brand_id=360003815913",
+    "localStorageId": "novoMenuAtualizado20261001",
+    "categoria": "Pop-up - Novo menu no ar",
+    "inicio": "2026/10/01",
+    "fim": "2026/10/05",
+    "action": "",
+    "preventClient": [],
+    "bloquearClientesPorCodigo": [],
+    "direcionarCampanha": [],
+    "direcionarClientesPorCodigo": [],
+    "closeColor": "#fff",
+    "maximoExibicoes": 1,
+    "desabilitarAposClick": true,
+    "ocultarParaAdmin": false,
+    "mostrarSomenteParaAdmin": false,
+    "validarAntecipa": false,
+    "enableWhiteLabelCielo": true
+  },
+  {
     "nome": "Novo menu",
     "imagem": "https://raw.githubusercontent.com/f360-dev/marketplace-f360/main/PopUp/imagens/F360-banner-novo-menu.png",
     "link": "#",
